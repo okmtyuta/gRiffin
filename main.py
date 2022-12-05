@@ -1,3 +1,5 @@
+# https://github.com/thinkAmi-sandbox/wsgi_webserver-sample/blob/master/single_response_wsgi_server.py
+# 模写
 import sys
 import socket
 import io
